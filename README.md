@@ -9,7 +9,7 @@
 />
 
 - 🌱 I’m currently learning **React Native and Next/Nuxt.js** 
-- 👨‍💻 All of my projects are available at [https://bhavesh-soni.netlify.app/](https://bhavesh-soni.netlify.app/) 
+- 👨‍💻 All of my projects are available at [Portfolio](https://bhavesh-soni.netlify.app/) 
 - 💬 Ask me about **React.js, Express.js, JavaScript** 
 - 📫 How to reach me **sonibhaveshsoni0@gmail.com** 
 - 📄 Know about my experiences [Get Resume](https://drive.google.com/file/d/1UKgQLj18kugUaLKrRBmnPGvlriGeMXRe/view?usp=sharing)
