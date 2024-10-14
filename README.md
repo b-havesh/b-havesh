@@ -1,12 +1,12 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Bhavesh Soni</h1>
 <h3 align="center">I love to make websites feel smoooooooooth and seamless.</h3>
-<img
+<!-- <img
   align="right"
   width="400"
   src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
   alt="coding_img"
-/>
+/> -->
 
 - 🌱 I’m currently learning **React Native and Next/Nuxt.js** 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bhavesh-soni.netlify.app/) 
