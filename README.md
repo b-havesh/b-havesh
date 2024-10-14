@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center">Hi 👋, I'm Bhavesh Soni</h1>
 <h3 align="center">I love to make websites feel smoooooooooth and seamless.</h3>
 <!-- <img
@@ -176,14 +175,6 @@ smoother than a freshly buttered naan!**
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=b-havesh&show_icons=true&locale=en&layout=compact"
-    alt="b-havesh"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=b-havesh&show_icons=true&locale=en"
     alt="b-havesh"
   />
 </p>
