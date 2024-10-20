@@ -1,19 +1,21 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, I'm Bhavesh Soni</h1>
+
 <h3 align="center">I love to make websites feel smoooooooooth and seamless.</h3>
-<!-- <img
-  align="right"
-  width="400"
-  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
-  alt="coding_img"
-/> -->
+
+A 25 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+![age](https://img.shields.io/badge/age-23-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Bangalore-3c9)
 
 - 🌱 I’m currently learning **React Native and Next/Nuxt.js** 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bhavesh-soni.netlify.app/) 
 - 💬 Ask me about **React.js, Express.js, JavaScript** 
 - 📫 How to reach me **sonibhaveshsoni0@gmail.com** 
 - 📄 Know about my experiences [Get Resume](https://drive.google.com/file/d/1UKgQLj18kugUaLKrRBmnPGvlriGeMXRe/view?usp=sharing)
-- ⚡ Fun fact: **Bhavesh doesn't just build websites; he makes sure they’re
-smoother than a freshly buttered naan!**
+- ⚡ Fun fact: Jack of all trades , Master of None!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
