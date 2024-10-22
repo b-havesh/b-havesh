@@ -176,7 +176,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=b-havesh&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=b-havesh&theme=dark&show_icons=true&locale=en&layout=compact"
     alt="b-havesh"
   />
 </p>
@@ -184,7 +184,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=b-havesh&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=b-havesh&theme=dark"
     alt="b-havesh"
   />
 </p>
