@@ -4,16 +4,16 @@
 
 <h3 align="center">I love to make websites feel smoooooooooth and seamless.</h3>
 
-A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building smoooooooooth web applications, exploring scalability problems and improving efficiency and performance. Scripts? Automation? Smooth applications? HELL YEAH! 👀  
+A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building smoooooooooth web applications, exploring scalability problems and improving efficiency and performance. Scripts? Automation? Smooth applications? HELL YEAH! 👀
 
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bangalore-3c9)
 
-- 🌱 I’m currently learning **React Native and Next/Nuxt.js** 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bhavesh-soni.netlify.app/) 
-- 💬 Ask me about **React.js, Express.js, JavaScript** 
-- 📫 How to reach me **sonibhaveshsoni0@gmail.com** 
+- 🌱 I’m currently learning **React Native and Next/Nuxt.js**
+- 👨‍💻 All of my projects are available at [Portfolio](https://bhavesh-soni.netlify.app/)
+- 💬 Ask me about **React.js, Express.js, JavaScript**
+- 📫 How to reach me **sonibhaveshsoni0@gmail.com**
 - 📄 Know about my experiences [Get Resume](https://drive.google.com/file/d/1UKgQLj18kugUaLKrRBmnPGvlriGeMXRe/view?usp=sharing)
 - ⚡ Fun fact: Jack of all trades , Master of None!
 
@@ -188,3 +188,9 @@ A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
     alt="b-havesh"
   />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
