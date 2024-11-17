@@ -188,9 +188,3 @@ A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
     alt="b-havesh"
   />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-havesh/b-havesh/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b-havesh/b-havesh/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/b-havesh/b-havesh/output/snake.svg" alt="Snake animation" />
-</picture>
