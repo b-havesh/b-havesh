@@ -15,7 +15,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Ful
 - 💬 Ask me about **React.js, Express.js, JavaScript**
 - 📫 How to reach me **sonibhaveshsoni0@gmail.com**
 - 📄 Know about my experiences [Get Resume](https://drive.google.com/file/d/1UKgQLj18kugUaLKrRBmnPGvlriGeMXRe/view?usp=sharing)
-- ⚡ Fun fact: Jack of all trades , Master of None!
+- ⚡ Fun fact: Jack of all trades, Master of none, oftentimes better than master of one.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
